@@ -36,7 +36,7 @@ We appreciate your interest in Honeybrain and welcome contributions. Check out o
 
 ## 📬 Contact 
 
-If you have any questions or need support, feel free to reach out to us at support@honeybrain.com.
+If you have any questions or need support, feel free to reach out to us at valentin.charbonnier@epitech.eu
 
 ## 📄 License 
 
