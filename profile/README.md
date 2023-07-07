@@ -24,7 +24,7 @@ Our Website repository contains the source code for our product showcase website
 
 ### [Frontend](https://github.com/Le-Pot-de-Miel/Frontend)
 
-The Frontend repository hosts the source code for our report dashboard's frontend. This repository is private due to security reasons.
+The Frontend repository hosts the source code for our report dashboard's frontend.
 
 ### [Backend](https://github.com/Le-Pot-de-Miel/Backend)
 
