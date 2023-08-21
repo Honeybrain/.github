@@ -1,6 +1,6 @@
 # 🐝 Honeybrain Security Suite 
 
-Welcome to the central repository for Honeybrain, a comprehensive cyber-security solution designed for developers and entrepreneurs.
+Welcome to the central repository for Honeybrain, a comprehensive cyber-security solution designed for developers and entrepreneurs. HoneyBrain is a security suite that includes an easy-to-install honeypot to detect potential cyber threats, automated penetration testing, and continuous deployment integration, all aimed at providing robust protection while encouraging secure software and system deployment best practices.
 
 ## 💼 Repository Overview 
 
