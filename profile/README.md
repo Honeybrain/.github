@@ -12,7 +12,7 @@ Here is a brief overview of the repositories maintained under Honeybrain:
 
 This repository contains the source code for the Honeybrain installer. It includes everything needed to install and set up Honeybrain on your system. It includes the honeypot and the dashboard for monitoring your system.
 
-### [Honeypot](https://github.com/Honeybrain/Honeypot)
+### [Honeybrain Services & Modules](https://github.com/Honeybrain/Honeypot)
 
 The Honeypot repository hosts our Continuous Integration / Continuous Deployment (CI/CD) tools, including the configuration and Docker files for the Honeypot. This ensures secure and efficient deployment practices.
 
