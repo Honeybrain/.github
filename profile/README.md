@@ -12,17 +12,15 @@ Here is a brief overview of the repositories maintained under Honeybrain:
 
 This repository contains the source code for the Honeybrain installer. It includes everything needed to install and set up Honeybrain on your system. It includes the honeypot and the dashboard for monitoring your system.
 
-### [Honeybrain Services & Modules](https://github.com/Honeybrain/Honeypot)
+### [Honeybrain Dashboard](https://github.com/Honeybrain/Dashboard)
 
-The Honeypot repository hosts our Continuous Integration / Continuous Deployment (CI/CD) tools, including the configuration and Docker files for the Honeypot. This ensures secure and efficient deployment practices.
+This monorepo hosts the complete suite of Honeybrain services, including both the Honeypot and the Dashboard components, facilitating Continuous Integration / Continuous Deployment (CI/CD) practices, secure and efficient deployment, data processing, storage, and retrieval.
 
-### [Dashboard Frontend](https://github.com/Honeybrain/Frontend)
+- **Honeypot Services & Modules**: Previously hosted in the [Honeypot repository](https://github.com/Honeybrain/Honeypot), it includes our CI/CD tools, configuration, and Docker files for the Honeypot to ensure secure and efficient deployment practices.
+  
+- **Dashboard Frontend**: The source code for our report dashboard's frontend, providing a user-friendly interface for monitoring and reporting, previously available in the [Frontend repository](https://github.com/Honeybrain/Frontend).
 
-The Frontend repository hosts the source code for our report dashboard's frontend.
-
-### [Dashboard Backend](https://github.com/Honeybrain/Backend)
-
-The Backend repository contains the source code for our report dashboard's backend. This is where we manage data processing, storage, and retrieval for our reporting system.
+- **Dashboard Backend**: Contains the source code for our report dashboard's backend. It manages data processing, storage, and retrieval for our reporting system, initially found in the [Backend repository](https://github.com/Honeybrain/Backend).
 
 ### [Website](https://github.com/Honeybrain/Website)
 
